@@ -4,12 +4,12 @@ More than the title suggests, this boilerplate uses not only React, Babel and We
 
 ## Features
 
-- [[<img align="left" alt="ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/react.svg" />][reactjs-ico] ReactJS](reactjs)
-- [[<img align="left" alt="Babel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/babel.svg" />][babel-ico] Babel](babel)
-- [[<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/webpack.svg" />][webpack-ico] Webpack](webpack)
-- [[<img align="left" alt="Typescript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/typescript.svg" />][typescript-ico] TypeScript](typescript)
-- [[<img align="left" alt="ESLint" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/eslint.svg" />][eslint-icon] ESLint](eslint)
-- [[<img align="left" alt="Prettier" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/prettier.svg" />][prettier-ico] Prettier](prettier)
+- [<img align="left" alt="ReactJS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/react.svg" />][reactjs-ico] [ReactJS](reactjs)
+- [<img align="left" alt="Babel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/babel.svg" />][babel-ico] [Babel](babel)
+- [<img align="left" alt="Webpack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/webpack.svg" />][webpack-ico] [Webpack](webpack)
+- [<img align="left" alt="Typescript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/typescript.svg" />][typescript-ico] [TypeScript](typescript)
+- [<img align="left" alt="ESLint" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/eslint.svg" />][eslint-icon] [ESLint](eslint)
+- [<img align="left" alt="Prettier" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/prettier.svg" />][prettier-ico] [Prettier](prettier)
 
 ## Usage
 
