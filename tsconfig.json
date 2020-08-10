@@ -1,0 +1,21 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"paths": {
+			"Utils/*": ["src/utils/*"]
+		},
+
+		"allowSyntheticDefaultImports": true,
+		"noImplicitAny": true,
+		"moduleResolution": "node",
+		"sourceMap": true,
+		"module": "esnext",
+		"target": "esnext",
+		"jsx": "react",
+		"allowJs": true,
+		"noEmit": true,
+		"noImplicitThis": true,
+		"strictNullChecks": true,
+		"lib": ["es6", "dom"]
+	}
+}
