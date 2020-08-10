@@ -18,7 +18,7 @@ Note that below we use [yarn](yarn) as an example, you can use any kind of Node.
 ### Installation
 
 ```bash
-git clone https://github.com/SnekNOTSnake/react-babel-webpack.git
+git clone https://github.com/SnekNOTSnake/react-typescript-boilerplate.git
 cd react-babel-webpack
 yarn
 ```
