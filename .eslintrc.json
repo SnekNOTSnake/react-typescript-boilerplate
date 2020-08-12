@@ -1,11 +1,12 @@
 {
 	// TypeScript parser, an ESLint parser which leverages TypeScript ESTree to allow for ESLint to lint TypeScript source code.
 	"parser": "@typescript-eslint/parser",
+	// The order of the extends matters
 	"extends": [
-		"plugin:react-hooks/recommended", // React Hooks rules
-		"plugin:react/recommended", // React rules
 		"plugin:@typescript-eslint/recommended", // Typescript rules
-		"plugin:prettier/recommended" // Sets the prettier/prettier rule to error
+		"plugin:prettier/recommended", // Sets the prettier/prettier rule to error
+		"plugin:react/recommended", // React rules
+		"plugin:react-hooks/recommended" // React Hooks rules
 	],
 	"parserOptions": {
 		"ecmaVersion": 2020, // ES11 New features are enabled!
