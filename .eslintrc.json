@@ -6,15 +6,20 @@
 		"plugin:@typescript-eslint/recommended", // Typescript rules
 		"plugin:prettier/recommended", // Sets the prettier/prettier rule to error
 		"plugin:react/recommended", // React rules
-		"plugin:react-hooks/recommended" // React Hooks rules
+		"plugin:react-hooks/recommended", // React Hooks rules
+		"airbnb-typescript" // Airbnb stylings
 	],
 	"parserOptions": {
 		"ecmaVersion": 2020, // ES11 New features are enabled!
-		"sourceType": "module" // Tell ESLint that everything is a module
+		"sourceType": "module", // Tell ESLint that everything is a module
+		"project": "./tsconfig.json" // Location of the Parser config file
 	},
 	// Runs Prettier as an ESLint rule and reports differences as individual ESLint issues.
 	"plugins": ["prettier"],
 	"rules": {
-		"@typescript-eslint/no-var-requires": "off" // Off for webpack config files
+		"@typescript-eslint/no-var-requires": "off", // Off for webpack config files
+		"react/jsx-indent": [2, "tab"], // Use tabs
+		"@typescript-eslint/indent": "off", // Use prettier indentation
+		"no-tabs": "off" // Use tabs
 	}
 }
