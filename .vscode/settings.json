@@ -9,5 +9,6 @@
 	],
 	"editor.codeActionsOnSave": {
 		"source.fixAll": true
-	}
+	},
+	"liveServer.settings.port": 3000
 }
