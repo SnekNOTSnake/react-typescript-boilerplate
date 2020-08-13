@@ -1,5 +1,5 @@
 import React, { ReactElement as RE } from 'react';
-import { log } from 'Utils/helpers';
+import log from 'Utils/helpers';
 import '../styles/App-style.css';
 
 const App = (): RE => {
